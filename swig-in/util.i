@@ -65,4 +65,6 @@ inline char peek_next_nonws(std::istream& in) {
   *_p = '\0';								\
 }
 
+%{
 #endif // _UTIL_H
+  %}

@@ -49,4 +49,6 @@ class include_context : public file_context {
 
 } // namespace ledger
 
+%{
 #endif // _TEXTUAL_H
+  %}

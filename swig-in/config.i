@@ -82,4 +82,6 @@ void trace_pop(const std::string& cat, const std::string& str,
 
 } // namespace ledger
 
+%{
 #endif // _CONFIG_H
+  %}

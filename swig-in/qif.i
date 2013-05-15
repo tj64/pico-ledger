@@ -25,4 +25,6 @@ class qif_parser_t : public parser_t
 
 } // namespace ledger
 
+%{
 #endif // _QIF_H
+  %}

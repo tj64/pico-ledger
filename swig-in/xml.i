@@ -51,4 +51,6 @@ xmlns:tr=\"http://newartisans.com/xml/ledger-tr\">\n";
 
 } // namespace ledger
 
+%{
 #endif // _XML_H
+  %}

@@ -25,4 +25,6 @@ class ofx_parser_t : public parser_t
 
 } // namespace ledger
 
+%{
 #endif // _OFX_H
+  %}

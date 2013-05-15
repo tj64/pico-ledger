@@ -29,4 +29,6 @@ void write_binary_journal(std::ostream&	 out,
 
 } // namespace ledger
 
+%{
 #endif // _BINARY_H
+  %}

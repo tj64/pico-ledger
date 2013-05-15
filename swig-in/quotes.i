@@ -33,4 +33,6 @@ class quotes_by_script : public commodity_base_t::updater_t
 
 } // namespace ledger
 
+%{
 #endif // _QUOTES_H
+  %}

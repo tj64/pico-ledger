@@ -32,4 +32,6 @@ class mask_error : public error {
   virtual ~mask_error() throw() {}
 };
 
+%{
 #endif // _MASK_H
+  %}

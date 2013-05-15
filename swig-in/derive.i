@@ -17,4 +17,6 @@ entry_t * derive_new_entry(journal_t& journal,
 
 } // namespace ledger
 
+%{
 #endif // _DERIVE_H
+  %}

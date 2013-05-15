@@ -36,4 +36,6 @@ class reconcile_transactions : public item_handler<transaction_t>
 
 } // namespace ledger
 
+%{
 #endif // _RECONCILE_H
+  %}

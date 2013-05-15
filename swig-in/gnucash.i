@@ -25,4 +25,6 @@ class gnucash_parser_t : public parser_t
 
 } // namespace ledger
 
+%{
 #endif // _GNUCASH_H
+  %}

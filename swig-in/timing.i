@@ -65,4 +65,6 @@ class timing_t
 
 } // namespace ledger
 
+%{
 #endif // _TIMING_H
+  %}

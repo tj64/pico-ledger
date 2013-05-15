@@ -82,4 +82,6 @@ class report_t
 
 } // namespace ledger
 
+%{
 #endif // _REPORT_H
+  %}

@@ -125,6 +125,7 @@ void   operator delete[](void*, const std::nothrow_t&) throw();
 #define DEBUG_PRINT(cls, x)
 #define DEBUG_PRINT_(x)
 #define DEBUG_PRINT_TIME(cls, x)
+
 #define DEBUG_PRINT_TIME_(x)
 
 #define VALIDATE(x)

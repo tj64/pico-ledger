@@ -447,4 +447,6 @@ class value_error : public error {
 
 } // namespace ledger
 
+%{
 #endif // _VALUE_H
+  %}

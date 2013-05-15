@@ -65,4 +65,6 @@ class parse_error : public error {
 
 } // namespace ledger
 
+%{
 #endif // _PARSER_H
+  %}

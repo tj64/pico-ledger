@@ -469,4 +469,6 @@ extern const std::string version;
 
 } // namespace ledger
 
+%{
 #endif // _JOURNAL_H
+  %}

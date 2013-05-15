@@ -634,4 +634,6 @@ struct compare_amount_commodities {
 
 } // namespace ledger
 
+%{
 #endif // _AMOUNT_H
+%}

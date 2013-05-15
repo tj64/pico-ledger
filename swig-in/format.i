@@ -221,4 +221,6 @@ class format_error : public error {
 
 } // namespace ledger
 
+%{
 #endif // _FORMAT_H
+  %}

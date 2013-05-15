@@ -55,4 +55,6 @@ void option_help(std::ostream& out);
 
 } // namespace ledger
 
+%{
 #endif // _OPTION_H
+  %}

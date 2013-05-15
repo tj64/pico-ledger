@@ -128,4 +128,6 @@ class fatal_assert : public fatal {
   virtual ~fatal_assert() throw() {}
 };
 
+%{
 #endif // _ERROR_H
+  %}

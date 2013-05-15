@@ -310,4 +310,6 @@ inline date_t::date_t(const datetime_t& _when) {
   when = std::mktime(moment);
 }
 
+%{
 #endif // _DATETIME_H
+  %}

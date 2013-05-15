@@ -754,4 +754,6 @@ inline void clear_journal_xdata(journal_t * journal) {
 
 } // namespace ledger
 
+%{
 #endif // _WALK_H
+  %}

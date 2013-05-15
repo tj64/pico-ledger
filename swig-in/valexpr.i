@@ -520,4 +520,6 @@ class item_predicate
 
 } // namespace ledger
 
+%{
 #endif // _VALEXPR_H
+  %}

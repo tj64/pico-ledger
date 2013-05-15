@@ -27,4 +27,6 @@ class format_csv_transactions : public item_handler<transaction_t>
 
 } // namespace ledger
 
+%{
 #endif // _REPORT_H
+  %}

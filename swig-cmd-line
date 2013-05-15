@@ -1,0 +1,2 @@
+# swig -cffi -c++ <file>.i
+swig -cffi -c++

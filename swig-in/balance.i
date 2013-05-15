@@ -964,4 +964,6 @@ inline std::ostream& operator<<(std::ostream& out,
 
 } // namespace ledger
 
+%{
 #endif // _BALANCE_H
+  %}
